@@ -1,8 +1,8 @@
-![workflow](https://github.com/mertmetin1/Performance-Data-Analysis-Based-on-Work-Volume-and-Salary-Metrics/assets/98667673/dfdcfa00-e954-489f-937e-b038a423a5f8)## Performance Data Analysis Based on Work Volume and Salary Metrics With Knime
+## Performance Data Analysis Based on Work Volume and Salary Metrics With Knime
 [TR](https://github.com/mertmetin1/Performance-Data-Analysis-Based-on-Work-Volume-and-Salary-Metrics/files/15411413/Is.Hacmi.ve.Maas.Metriklerine.Calisan.Gore.Performansi.Veri.Analizi.docx)
 
 
-![Uplo<?xml version="1.0" standalone="no"?>
+![workflow](https://github.com/mertmetin1/Performance-Data-Analysis-Based-on-Work-Volume-and-Salary-Metrics/assets/98667673/dfdcfa00-e954-489f-937e-b038a423a5f8)
 
 ### Objective
 This analysis aims to examine the relationship between employees' demographic information and their job performance within a company. The dataset includes variables such as gender, age, work volume, and salary of employees. The objective is to identify factors affecting job performance and provide recommendations based on the analysis.
